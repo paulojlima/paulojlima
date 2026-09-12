@@ -93,14 +93,6 @@ reusable tools.
 
 ---
 
-## GitHub
-
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulojlima&show_icons=true&hide_title=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulojlima&layout=compact&hide_border=true)
-
----
-
 ## Let's Connect
 
 I'm always interested in exchanging ideas around **Data Engineering,
