@@ -96,22 +96,22 @@ It includes:
 
 I write about **Data Engineering, Data Architecture and Applied AI**,
 with a focus on practical engineering, architectural decision-making
-and emerging AI-assisted workflows.
+and reusable AI capabilities.
 
-### Selected Articles
+### Latest Articles
 
-📦 **Smooth Sailing: A Guide to Successful Data Migration Strategies**
-*Practical strategies and considerations for successful data migration.*
+🏗️ **[AI Can Design a Data Architecture. But Can It Know When to Stop?](https://medium.com/@paulo-lima/ai-can-design-a-data-architecture-but-can-it-know-when-to-stop-675654d00744)**  
+*Teaching an AI agent to challenge complexity before choosing the technology.*
 
-🤖 **Do Chatbots Right with LangChain**
-*Exploring practical patterns for building LLM-powered applications.*
+🧠 **[From Prompting to Packaging: How to Create an AI Skill That Actually Scales](https://medium.com/@paulo-lima/from-prompting-to-packaging-how-to-create-an-ai-skill-that-actually-scales-728455a453d3)**  
+*Turning reusable AI instructions into a structured Skill that can scale beyond a single conversation.*
 
 [![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@paulo-lima)
 
 ### Coming Next
 
-🏗️ **Data Architecture × Agent Skills**
-*What happens when architectural reasoning is encoded into a reusable AI capability?*
+🔍 **dbt Project Reviewer**  
+*Exploring whether reusable Agent Skills can make dbt reviews more consistent, explainable and useful.*
 
 ---
 
