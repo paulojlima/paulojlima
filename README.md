@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Paulo 👋
 
-<!--
-**paulojlima/paulojlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineering · Data Architecture · Applied AI
 
-Here are some ideas to get you started:
+I design and build modern data solutions, combining data engineering,
+cloud architecture and applied AI to solve complex business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring how **AI agents and reusable skills** can improve
+the way we design, build and operate data platforms.
+
+---
+
+### 🔭 Current focus
+
+- 🏗️ Modern Data Platforms & Data Architecture
+- ⚙️ Data Engineering & Analytics Engineering
+- 🤖 Generative AI, RAG & Agentic Systems
+- 🛡️ Data Governance & Lineage
+- 🧠 AI-assisted Engineering
