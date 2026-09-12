@@ -69,27 +69,49 @@ Some of the areas I'm currently exploring:
 
 ---
 
+## Featured Projects
+
+### 🏗️ [Data Architecture Designer](https://github.com/paulojlima/data-architecture-designer)
+
+A reusable **Agent Skill for Data Architecture** that helps AI coding agents
+reason from requirements, quality attributes and constraints before selecting
+architecture patterns and technologies.
+
+It includes:
+
+- requirements-first architecture reasoning;
+- explicit alternatives and trade-offs;
+- a complexity test for Kafka, Spark, Kubernetes, Data Mesh and other
+  potentially unnecessary components;
+- Architecture Decision Records (ADRs);
+- reusable architecture references and output templates.
+
+**Current release:** `v0.2.0` · Tested with GitHub Copilot Agent in VS Code
+
+`Data Architecture` · `Agent Skills` · `Data Engineering` · `Applied AI`
+
+---
+
 ## Writing
 
 I write about **Data Engineering, Data Architecture and Applied AI**,
-with a focus on turning engineering knowledge into practical,
-reusable tools.
+with a focus on practical engineering, architectural decision-making
+and emerging AI-assisted workflows.
 
-### Latest / Selected
+### Selected Articles
 
-🏗️ **Building a Data Architecture Designer Skill**  
-*Turning architectural decision-making into a reusable AI capability.*
+📦 **Smooth Sailing: A Guide to Successful Data Migration Strategies**
+*Practical strategies and considerations for successful data migration.*
 
-🔍 **Building an AI Skill to Review dbt Projects**  
-*Using reusable Agent Skills to improve analytics engineering workflows.*
-
-📦 **Smooth Sailing: A Guide to Successful Data Migration Strategies**  
-*Practical strategies for successful data migration.*
-
-🤖 **Do Chatbots Right with LangChain**  
-*Exploring practical patterns for LLM-powered applications.*
+🤖 **Do Chatbots Right with LangChain**
+*Exploring practical patterns for building LLM-powered applications.*
 
 [![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@paulo-lima)
+
+### Coming Next
+
+🏗️ **Data Architecture × Agent Skills**
+*What happens when architectural reasoning is encoded into a reusable AI capability?*
 
 ---
 
